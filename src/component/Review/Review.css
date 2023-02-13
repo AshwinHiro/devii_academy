@@ -1,0 +1,17 @@
+.profiler{
+    width : 350px;
+    padding: 30px;
+    border: 1px solid red;
+    border-radius: 50px;
+}
+
+
+
+/* Individuals */
+
+.transparentButton {
+    background-color: transparent;
+    border-radius: 5px;
+    padding:5px 20px;
+    
+}

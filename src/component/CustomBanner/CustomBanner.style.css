@@ -1,0 +1,39 @@
+a{
+    text-decoration: none;
+    color: #333333;
+}
+
+.padding10{
+    padding: 2% 5%;
+}
+
+.banner {
+    border-radius: 5%;
+    background-color: rgba(255,255,255,0.5)
+}
+
+.banner > .bannerLeft {
+    display: flex;
+}
+
+.banner > .bannerLeft > .bannerContent {
+    align-self: center;
+}
+
+.banner > .bannerLeft > .bannerContent .bannerText {
+    text-transform: uppercase;
+}
+
+.banner img {
+    height: 100%;
+}
+
+
+/* Individuals */
+
+.transparentButton {
+    background-color: transparent;
+    border-radius: 5px;
+    padding:5px 20px;
+    
+}
